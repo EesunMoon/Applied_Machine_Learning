@@ -1,5 +1,5 @@
 # Applied_Machine_Learning
-**[Fall 2024]**
+**[Fall 2024]** COMS 4995
 
 ## Overview
 
